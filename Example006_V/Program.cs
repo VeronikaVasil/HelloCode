@@ -1,4 +1,4 @@
-﻿// zadacha s giryami//
+﻿//Zadacha s giryami//
 int a = 1;
 int b = 2;
 int c = 6;
@@ -15,3 +15,4 @@ if (e > max ) max = e;
 
 Console.Write("max = ");
 Console.WriteLine(max);
+
