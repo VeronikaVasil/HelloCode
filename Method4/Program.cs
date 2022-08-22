@@ -15,7 +15,7 @@ string Method4(int count, string text)
 
 }
 
-string res = Method4(10, "asdf");
+string res = Method4(10, " asdf");
 Console.WriteLine(res);
 
 
