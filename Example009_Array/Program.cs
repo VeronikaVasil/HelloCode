@@ -16,4 +16,4 @@ int result = Max(
     Max(array[6], array[7], array[8])
 );
 
-Console.WriteLine("Max " + result);
+Console.WriteLine($"Max {result}");
